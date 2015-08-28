@@ -68,6 +68,8 @@ if (! SlackHookFramework\Validator::validate ( $_POST, $config )) {
 	die ();
 }
 
+echo "...";
+
 /**
  * Entry point execution.
  */
