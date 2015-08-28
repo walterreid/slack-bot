@@ -16,17 +16,17 @@ $config = new SlackHookFramework\Configuration ();
 /**
  * token sent by slack (from your "Slash Commands" integration).
  */
-$config->token = "vuLKJlkjdsflkjLKJLKJlkjd";
+$config->token = "oXQrLWIq5X0Q7Es1V1UuGEro";
 
 /**
  * URL of the Incoming WebHook slack integration.
  */
-$config->slack_webhook_url = "https://hooks.slack.com/services/LKJDFKLJFD/DFDFSFDDSFDS/sdlfkjdlkfjLKJLKJKLJO";
+$config->slack_webhook_url = "https://hooks.slack.com/services/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";
 
 /**
  * Slack API authentication token for your team.
  */
-$config->slack_api_token = "xoxp-98475983759834-38475984579843-34985793845";
+$config->slack_api_token = "xoxp-3495244682-4543500447-4562881133-a39acf";
 
 /**
  * Log level threshold.
